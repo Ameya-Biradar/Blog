@@ -1,0 +1,23 @@
+body{
+text-align: center;
+}
+h1{
+font-style: italic;
+font-size: 40px;
+font-weight: 400;
+}
+#app{
+width: 100%;
+height: 1000px;
+    background-color: #ff7300;
+}
+#My games{
+width: 100%;
+height: 1000px;
+    background-color: #ff7300;
+}
+#Chat Bot{
+width: 100%;
+height: 1000px;
+    background-color: #ff7300;
+}
